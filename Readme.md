@@ -1,3 +1,4 @@
 # Read me File
-
-This is Read Me File
+let see how Git Works
+This is my file
+now this my new file
