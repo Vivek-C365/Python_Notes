@@ -15,3 +15,5 @@ git log
 ## Explanation of commands:
 `bash git_basics.sh`: This command runs the script `git_basics.sh`, which contains instructions for the class. It sets up a local repository, creates a remote
 **`bash git_basics.sh`:** This command runs the script `git_basics.sh`, which contains instructions for creating a local repository, adding files to it, making
+
+## Explanation of Branching:
